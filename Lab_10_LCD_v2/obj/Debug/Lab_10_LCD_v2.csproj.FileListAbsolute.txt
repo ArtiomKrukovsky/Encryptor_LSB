@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lab_10_LCD_v2\Lab_10_LCD_v2\bin\Debug\Lab_10_LCD_v2.exe.config
+C:\Users\User\source\repos\Lab_10_LCD_v2\Lab_10_LCD_v2\bin\Debug\Lab_10_LCD_v2.exe
+C:\Users\User\source\repos\Lab_10_LCD_v2\Lab_10_LCD_v2\bin\Debug\Lab_10_LCD_v2.pdb
+C:\Users\User\source\repos\Lab_10_LCD_v2\Lab_10_LCD_v2\obj\Debug\Lab_10_LCD_v2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab_10_LCD_v2\Lab_10_LCD_v2\obj\Debug\Lab_10_LCD_v2.Form1.resources
+C:\Users\User\source\repos\Lab_10_LCD_v2\Lab_10_LCD_v2\obj\Debug\Lab_10_LCD_v2.Properties.Resources.resources
+C:\Users\User\source\repos\Lab_10_LCD_v2\Lab_10_LCD_v2\obj\Debug\Lab_10_LCD_v2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab_10_LCD_v2\Lab_10_LCD_v2\obj\Debug\Lab_10_LCD_v2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab_10_LCD_v2\Lab_10_LCD_v2\obj\Debug\Lab_10_LCD_v2.exe
+C:\Users\User\source\repos\Lab_10_LCD_v2\Lab_10_LCD_v2\obj\Debug\Lab_10_LCD_v2.pdb
